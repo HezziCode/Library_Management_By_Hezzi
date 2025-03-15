@@ -232,7 +232,7 @@ def main():
         
         st.markdown("---")
         st.markdown("### About")
-        st.info("Library Management System v2.0")
+        st.info("Library Management System")
         st.markdown(f"Current time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
     # Main content based on menu choice
